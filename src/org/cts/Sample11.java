@@ -8,6 +8,7 @@ public class Sample11 {
 		String s2="Singh";
 		System.out.println(System.identityHashCode(s));
 		System.out.println(System.identityHashCode(s2));
+		System.out.println("hi");
 	}
 
 }
